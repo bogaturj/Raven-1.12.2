@@ -7,12 +7,6 @@ Discord:<br>
 Backup: <br>
 <a href="https://discord.gg/XhVt9NMtBE"><img src="https://invidget.switchblade.xyz/XhVt9NMtBE" alt="https://discord.gg/XhVt9NMtBE"/></a><br>
 
-# Installation
-## User
-[Latest Stable](https://github.com/Kopamed/Raven-bPLUS/raw/main/build/libs/%5B1.8.9%5D%20BetterKeystrokes%20V-1.1.0.jar) <br>
-[Latest Experimental](https://github.com/Kopamed/Raven-bPLUS/raw/lunarkeystrokes/build/libs/%5B1.8.9%5DLunarKeystrokes%20B-1.jar) (basically stable but with some more stuff)<br>
-[Latest Beta](https://github.com/Kopamed/Raven-bPLUS/raw/new-base/build/libs/RavenB%2B-1.jar) probably won't even work or will crash frequently. Or have a lot of bugs
-
 ## Build
 1. [Get](https://gradle.org/next-steps/?version=2.7&format=bin) and [install](https://docs.gradle.org/current/userguide/installation.html) gradle.
 2. Download and clone repo to a folder.
